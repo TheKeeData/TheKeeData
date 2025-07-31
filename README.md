@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Abdullah!
-<br><br>👩🏻‍💻 I'm a Marketing Analyst/ Business Intelligence Analyst sharing about my journey and learnings in tech<br><br>👩🏻‍🎓 Studying Big Data Analytics at the University of Bahcesehir in Istanbul<br><br>🎨 I share relevant content every now and then on linkedin <br><br>💭 Learning something new everyday <br>
+<br><br>👩🏻‍💻 I'm a Marketing specialist/  Analyst sharing about my journey and learnings in tech<br><br>👩🏻‍🎓 Studying Big Data Analytics at the University of Bahcesehir in Istanbul<br><br>🎨 I share relevant content every now and then on linkedin <br><br>💭 Learning something new everyday <br>
 
 
 ## 🌐 Socials:
